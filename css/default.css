@@ -1,0 +1,38 @@
+/*
+
+  developed by Ali Aslan
+  https://github.com/ali-aslan
+
+ */
+li.nav-item.active {
+  border-bottom: 2px solid #fff;
+}
+div.topbar{
+  background-color: #b5b5b5;
+  color: #fff;
+}
+nav.navbar{
+  background-color: #9E9E9E;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.seperator {
+  color: #fff;
+  text-shadow: 2px 2px #888;
+  height: 200px;
+  padding-top:9%;
+}
+li.nav-item.active {
+  border-bottom: 2px solid #fff;
+}
