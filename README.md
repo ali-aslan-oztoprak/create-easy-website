@@ -1,4 +1,4 @@
-# Create An Easily Website
+# Create A Website Easily
 
 Hi everyone, I developed the project to you can create an easy website fastly without a database.
 
